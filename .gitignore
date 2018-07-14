@@ -1,0 +1,10 @@
+# Windows:
+
+
+# Webstorm
+.idea
+
+# Node
+dist
+
+# My configurations:
